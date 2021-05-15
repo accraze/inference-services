@@ -1,3 +1,5 @@
-# Inference Services
+# [Archived] Inference Services
+This repo has been archived and migrated over to:
+https://gerrit.wikimedia.org/r/admin/repos/machinelearning/liftwing/inference-services
 
-KFServing model servers and configs for Lift Wing
+Github mirror: https://github.com/wikimedia/machinelearning-liftwing-inference-services
